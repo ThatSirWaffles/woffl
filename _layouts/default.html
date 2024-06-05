@@ -1,15 +1,67 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-GB" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
-	<link rel="stylesheet" href="{{ "assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" href="{{ "assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">  
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body st-mono">
-      {{ content }}
+	<script>
+		function toTop() {
+			document.body.scrollTop = 0;
+			document.documentElement.scrollTop = 0;
+		}
+
+		function on() {
+			document.getElementById("overlay").style.opacity = 1;
+			document.getElementById("overlay").style.pointerEvents = "auto";
+		}
+
+		function off() {
+			document.getElementById("overlay").style.opacity = 0;
+			document.getElementById("overlay").style.pointerEvents = "none";
+		}
+
+		document.addEventListener("DOMContentLoaded", function() {
+			const images = document.querySelectorAll("img");
+		
+			images.forEach(function(img) {
+				img.addEventListener("click", function() {	  
+					document.getElementById("expandedImage").src = this.src
+					on();
+					console.log("set to "+this.src)
+				});
+			});
+		});
+	</script>
+
+	<div id="overlay" onclick="off()">
+		<img id="expandedImage">
+	</div>
+
+	<!-- MAIN -->
+
+    <div class="container-lg px-3 my-5 markdown-body main">
+		<div class="navbar">
+			<a href="/">home</a>
+			<a href="/projects">projects</a>
+			<a href="/contact">contact</a>
+		</div>
+
+		{{ content }}
+
+		<div class="expando"></div>
+
+		<div class="footer">
+			<div class="footer-links">
+				<a onclick="toTop()" href="#">top</a>
+				<a class="right-text" href="/privacy">privacy</a>
+				<a class="right-text" href="/terms">terms</a>
+			</div>
+			<i>© 2024 woffl</i>
+		</div>
     </div>
   </body>
 </html>

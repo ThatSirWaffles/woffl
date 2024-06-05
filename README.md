@@ -1,22 +1,25 @@
 # woffl
-hey
 
-## a nice h2
-hi!
+Hey, I go as <b>Sir Waffles</b> on most platforms, branding my content under <b>woffl</b>. I'm a French guy, fluent in English and Russian, based in the UK, developing & designing actively since 2021. I'll respond fastest on Discord, details [here](contact).
 
-### a nice h3
-good morrow
+<script>
+	function updateTime() {
+		const now = new Date();
+		const options = {
+			timeZone: 'Europe/London',
+			hour: '2-digit',
+			minute: '2-digit',
+			second: '2-digit',
+			hour12: false
+		};
+		const ukTime = now.toLocaleTimeString('en-GB', options);
+		document.getElementById('time').textContent = ukTime;
+	}
+	setInterval(updateTime, 1000);
+	window.onload = updateTime;
+</script>
 
-Something or other goes [here](https://google.com)
+<br/>
+<p style="text-align: center"><i>UK time is <code><span id="time"></span></code></i></p>
 
-While we're at it, here's a nice little `code block`
-
-how about
-
-```lua
-for i = 1, 10 do
-	print("Many things")
-end
-```
-
-![Grass](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTSBw-DHCsYqJOs32oelp_IVA2DYPe3Szl6dnm-R9cQrFUC11_frUwdJ-RCd_fN6M3koK6O6N4e4F9eU1w)
+## Projects
