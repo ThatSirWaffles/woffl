@@ -1,6 +1,9 @@
 # woffl
 
-Hey, I go as <b>Sir Waffles</b> on most platforms, branding my content under <b>woffl</b>. I'm a French guy, fluent in English and Russian, based in the UK, developing & designing actively since 2021. I'll respond fastest on Discord, details [here](contact).
+Hey, I go by <b>Sir Waffles</b> on most platforms, branding my content under <b>woffl</b>. I'm a French guy, fluent in English and Russian, based in the UK, developing & designing actively since 2021. I'll respond fastest on Discord, details [here](contact).
+
+<br/>
+<p style="text-align: center"><i>UK time is <code><span id="time"></span></code></i></p>
 
 <script>
 	function updateTime() {
@@ -18,8 +21,3 @@ Hey, I go as <b>Sir Waffles</b> on most platforms, branding my content under <b>
 	setInterval(updateTime, 1000);
 	window.onload = updateTime;
 </script>
-
-<br/>
-<p style="text-align: center"><i>UK time is <code><span id="time"></span></code></i></p>
-
-## Projects
