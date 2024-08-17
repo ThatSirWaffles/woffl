@@ -1,5 +1,5 @@
 # Contact
-If you'd like to talk personally, I'm available on Discord via `@sirwaffles`, or via email on [thatsirwaffles@gmail.com](mailto:thatsirwaffles@gmail.com). I'll respond fastest on Discord.
+If you'd like to talk personally, I'm available on Discord via `@sirwaffles`, or via email at [sirwaffles@woffl.net](mailto:sirwaffles@woffl.net). I'll respond fastest on Discord.
 
 ### Socials
 
