@@ -84,6 +84,7 @@ html, body, .markdown-body.main {
 	img {
 		border-radius: 10px;
 		cursor: pointer;
+		background-color: transparent;
 	}
 
 	pre {
@@ -97,7 +98,7 @@ html, body, .markdown-body.main {
 		background-color: #181614;
 	}
 	
-	/* Apply these styles only to inline code elements */
+	// inline
 	code {
 		background-color: #272625;
 		border-radius: 10px;
@@ -106,14 +107,19 @@ html, body, .markdown-body.main {
 		font-family: 'Fira Code';
 	}
 	
-	/* Ensure code inside pre does not inherit extra padding or border */
+	// out
 	pre code {
 		background: none;
 		border: none;
 		padding: 0;
-		color: inherit; /* Ensure the text color inherits */
-		display: block; /* Ensure block display for multiline code */
-		white-space: pre; /* Preserve whitespace */
+		color: inherit;
+		display: block; // multiline
+		white-space: pre;
+	}
+
+	hr {
+		background-color: transparent;
+		border-top: 4px dotted #4e4d4c;
 	}
 	
 	.highlight {
