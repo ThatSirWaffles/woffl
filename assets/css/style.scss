@@ -253,7 +253,17 @@ html, body, .markdown-body.main {
 		opacity: 1;
 		transition: opacity 0.2s;
 	}
-}  
+} 	
+
+.techIcon {
+	opacity: 0.5;
+}
+
+.techIcon:hover {
+	cursor: pointer;
+	transition: opacity 0.2s;
+	opacity: 1;
+}
 
 i {
 	color: #63615e
