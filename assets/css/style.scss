@@ -226,12 +226,16 @@ html, body, .markdown-body.main {
 		border-radius: 10px;
 		padding: 5px 10px 5px 10px;
 		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
 		z-index: 1;
 		bottom: 150%;
 		left: 50%;
-		margin-left: -60px;
 		transition: opacity 0.2s;
 		font-size: 16px;
+		line-height: 1.2em;
+		font-weight: 400;
+		white-space: nowrap;
 
 		&::after {
 			content: "";

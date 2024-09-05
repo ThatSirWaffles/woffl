@@ -11,11 +11,20 @@ Here are most of my projects, or projects that I have participated in significan
 </div>
 
 ---
+
 <div style="text-align: center">
 	<i>Most images are cropped, click them to view fully</i>
 </div>
 
-## <a href="https://github.com/ThatSirWaffles/core" target="_blank">Skyrden Core</a> &nbsp;<img src="/assets/icons/github.svg" style="height:2rem; width:2rem; margin-bottom: -5px"/> <img src="/assets/icons/node.svg" style="height:2rem; width:2rem; margin-bottom: -5px"/>
+<h2 id="skyrden-core"><a href="https://github.com/ThatSirWaffles/core">Skyrden Core</a>&nbsp;
+	<div style="height:2rem; width: 2rem; margin-bottom: -5px; background-image: url('/assets/icons/github.svg'); background-repeat: no-repeat; background-size: 2rem 2rem;" class="tooltip">
+		<span class="tooltipText">Github</span>
+	</div>
+	<div style="height:2rem; width: 1.76rem; margin-bottom: -5px; background-image: url('/assets/icons/node.svg'); background-repeat: no-repeat; background-size: 1.76rem 2rem;" class="tooltip">
+		<span class="tooltipText">Node.js</span>
+	</div>
+</h2>
+
 A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/skyrden), created circa 2021, rewritten 3 times to the state it is in now. Since I left, the bot has been handed off to another maintainer, and the linked repo is an archive of the final state I left it in.
 
 [•] Full ticket system with ticket claiming, snippets, bans and transcripts|
@@ -40,7 +49,18 @@ A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/sk
 
 ---
 
-## [Citrine](https://github.com/ThatSirWaffles/citrine)
+<h2 id="citrine"><a href="https://github.com/ThatSirWaffles/citrine">Citrine</a>&nbsp;
+	<div style="height:2rem; width: 2rem; margin-bottom: -5px; background-image: url('/assets/icons/github.svg'); background-repeat: no-repeat; background-size: 2rem 2rem;" class="tooltip">
+		<span class="tooltipText">Github</span>
+	</div>
+	<div style="height:2rem; width: 2.3rem; margin-bottom: -5px; background-image: url('/assets/icons/electron-vite.svg'); background-repeat: no-repeat; background-size: 2.3rem 2rem;" class="tooltip">
+		<span class="tooltipText">electron-vite</span>
+	</div>
+	<div style="height:2rem; width: 2.22rem; margin-bottom: -5px; background-image: url('/assets/icons/react.svg'); background-repeat: no-repeat; background-size: 2.22rem 2rem;" class="tooltip">
+		<span class="tooltipText">React</span>
+	</div>
+</h2>
+
 A work in progress replacement for the Roblox desktop app, built with [electron-vite](https://electron-vite.org/), [React](https://react.dev/) and [shadcn/ui](https://ui.shadcn.com/).
 
 <div style="display: flex; gap: 1rem; flex-direction: column; width: 100%">
