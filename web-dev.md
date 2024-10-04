@@ -12,7 +12,7 @@ If you're interested in web development (or programming in general), and would l
 
 [•] We'll end up with a fully functional project that you can add to your portfolio|
 [•] We'll be using similar tools to established companies, so you can have a look at what it might be like to write code professionally|
-[•] We'll be using similar workflows to established companies, such as [agile](https://www.opentext.com/what-is/agile[•]development), code reviews, etc...|
+[•] We'll be using similar workflows to established companies, such as [agile](https://en.m.wikipedia.org/wiki/Agile_software_development), code reviews, etc...|
 [•] You'll hopefully learn new skills that you can apply elsewhere in the future|
 
 ## What will we be doing?
