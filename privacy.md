@@ -1,7 +1,7 @@
 # Privacy Policy
 <i>Last updated on 10/11/2024</i>
 
-This Privacy Policy explains how we collect, use, and protect your personal information when you access or use our website and services, including those integrated with third-party OAuth providers such as Roblox and Discord. By using our services, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how we collect, use, and protect your personal information when you access or use our website and services, including those integrated with third-party OAuth providers such as Roblox and Discord. By using our services, you agree to the collection and use of information in accordance with this policy. The current span of this policy extends to groups like Skyrden, but any services operated by <b>woffl</b> most definitely adhere.
 
 ### 1. Information We Collect
 We collect two types of information: Personal Information and Usage Data.

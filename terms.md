@@ -1,7 +1,7 @@
 # Terms of Service
 <i>Last updated on 10/11/2024</i>
 
-By using this website or interacting with our services *(including connecting through third-party OAuth providers like Roblox and Discord)*, you agree to comply with the following terms and conditions. The current span of these terms extends to groups like Skyrden, but any service operated by <b>woffl</b> most definitely adhere.
+By using this website or interacting with our services *(including connecting through third-party OAuth providers like Roblox and Discord)*, you agree to comply with the following terms and conditions. The current span of these terms extends to groups like Skyrden, but any services operated by <b>woffl</b> most definitely adhere.
 
 ### 1. Acceptance of Terms
 By accessing or using this site, including services connected via third-party OAuth integrations *(e.g., Roblox, Discord)*, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our [Privacy Policy](privacy).
