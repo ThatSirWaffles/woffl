@@ -32,13 +32,13 @@ Here are most of my projects, or projects that I have participated in significan
 
 A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/skyrden), created circa late 2021, rewritten 3 times to the state it is in now. Since I left, the bot has been handed off to another maintainer, and the linked repo is an archive of the final state I left it in.
 
-[•] Full ticket system with ticket claiming, snippets, bans and transcripts|
-[•] Roblox-Discord user linking system|
-[•] Cross platform points system, earned on Roblox, displayed on Discord|
-[•] Basic community activity features|
-[•] Semi automated flight status announcements from Roblox|
-[•] Hooks with another piece of Skyrden's infrastructure, the [Staff Hub](https://staff.skyrden.com)|
-[•] API to control most features of the bot externally, notably from the Staff Hub|
+[•] | Full ticket system with ticket claiming, snippets, bans and transcripts|
+[•] | Roblox-Discord user linking system|
+[•] | Cross platform points system, earned on Roblox, displayed on Discord|
+[•] | Basic community activity features|
+[•] | Semi automated flight status announcements from Roblox|
+[•] | Hooks with another piece of Skyrden's infrastructure, the [Staff Hub](https://staff.skyrden.com)|
+[•] | API to control most features of the bot externally, notably from the Staff Hub|
 
 <div style="display: flex; gap: 1rem; flex-direction: column; width: 100%">
 	<div style="display: flex; gap: 1rem">
@@ -74,9 +74,9 @@ A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/sk
 
 A tool to decode the encrypted FFD codes in the game CPUF, made entirely for fun and community use.	Created April 2024.
 
-[•] Follows a simple algorithm to decrypt 4/6 digit FFD codes|
-[•] Allows for automated decryption from a screenshot of the in-game code|
-[•] Uses Google's Gemini API as better OCR|
+[•] | Follows a simple algorithm to decrypt 4/6 digit FFD codes|
+[•] | Allows for automated decryption from a screenshot of the in-game code|
+[•] | Uses Google's Gemini API as better OCR|
 
 <div style="display: flex; gap: 1rem; flex-direction: column; width: 100%">
 	<div style="display: flex; gap: 1rem">
@@ -100,11 +100,11 @@ A tool to decode the encrypted FFD codes in the game CPUF, made entirely for fun
 
 A work-in-progress open-world game, based in medieval times, in an archipelago of individual sovereign islands, all fighting for the upper hand. 
 
-[•] Each island has its own laws, system of government and economy|
-[•] Different social classes based on wealth and role|
-[•] Purchasable and customizable houses|
-[•] Trading of resources that islands rely on for survival|
-[•] A single "seamless" map that would be realistically sailable|
+[•] | Each island has its own laws, system of government and economy|
+[•] | Different social classes based on wealth and role|
+[•] | Purchasable and customizable houses|
+[•] | Trading of resources that islands rely on for survival|
+[•] | A single "seamless" map that would be realistically sailable|
 
 <div style="display: flex; gap: 1rem; flex-direction: column; width: 100%">
 	<div style="display: flex; gap: 1rem">
@@ -131,10 +131,10 @@ A work-in-progress open-world game, based in medieval times, in an archipelago o
 
 A work-in-progress replacement for the Roblox desktop app, which will hopefully offer a nicer UI and UX, while improving game recommendation, created around September 2024. The following features are planned:
 
-[•] Weekly community votes to discover underrated games|
-[•] Tailored feed of games based on interests|
-[•] Filter to remove cash grabs/low effort games|
-[•] Personal and publishable game collections|
+[•] | Weekly community votes to discover underrated games|
+[•] | Tailored feed of games based on interests|
+[•] | Filter to remove cash grabs/low effort games|
+[•] | Personal and publishable game collections|
 
 <div style="display: flex; gap: 1rem; flex-direction: column; width: 100%">
 	<div style="display: flex; gap: 1rem">

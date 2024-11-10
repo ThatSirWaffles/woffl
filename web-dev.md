@@ -10,10 +10,10 @@ If you're interested in web development (or programming in general), and would l
 
 ## Why join?
 
-[•] We'll end up with a fully functional project that you can add to your portfolio|
-[•] We'll be using similar tools to established companies, so you can have a look at what it might be like to write code professionally|
-[•] We'll be using similar workflows to established companies, such as [agile](https://www.opentext.com/what-is/agile[•]development), code reviews, etc...|
-[•] You'll hopefully learn new skills that you can apply elsewhere in the future|
+[•] | We'll end up with a fully functional project that you can add to your portfolio|
+[•] | We'll be using similar tools to established companies, so you can have a look at what it might be like to write code professionally|
+[•] | We'll be using similar workflows to established companies, such as [agile](https://www.opentext.com/what-is/agile[•] |development), code reviews, etc...|
+[•] | You'll hopefully learn new skills that you can apply elsewhere in the future|
 
 ## What will we be doing?
 Over the course of this school year, more or less, we'll be building a full web app, with a nice frontend, a functional backend and database. The type of app that we'll be working on isn't defined yet, that would be something that we discuss and decide together. To give you an idea, it could be along the lines of a full remake of Pronote (interesting to look into algorithms to generate timetables on a large scale for example).
@@ -23,18 +23,18 @@ Anyone can join, however you still need a minimum of programming knowledge and a
 
 ### Necessary
 
-[•] At least basic programming knowledge|
-[•] Know JavaScript, or be willing to [learn](https://www.w3schools.com/js/) (many resources will be available)|
-[•] A machine that you can work from at home with decent specs (any OS is fine)|
-[•] An interest in whatever we'll be making|
-[•] The necessary time to contribute to the project (it'll never be too much, you can go at your own pace, but say you do BFI, managing this and your regular work might be challenging)|
-[•] Access to [Discord](https://discord.com/) for communication|
-[•] Unrestricted access to your machine (admin rights)|
+[•] | At least basic programming knowledge|
+[•] | Know JavaScript, or be willing to [learn](https://www.w3schools.com/js/) (many resources will be available)|
+[•] | A machine that you can work from at home with decent specs (any OS is fine)|
+[•] | An interest in whatever we'll be making|
+[•] | The necessary time to contribute to the project (it'll never be too much, you can go at your own pace, but say you do BFI, managing this and your regular work might be challenging)|
+[•] | Access to [Discord](https://discord.com/) for communication|
+[•] | Unrestricted access to your machine (admin rights)|
 
 ### Optional
 
-[•] Prior experience with JS web frameworks (Next.js, Nuxt, SvelteKit, etc)|
-[•] Experience in UI design (or just graphic design/art)|
+[•] | Prior experience with JS web frameworks (Next.js, Nuxt, SvelteKit, etc)|
+[•] | Experience in UI design (or just graphic design/art)|
 
 <br/>
 
