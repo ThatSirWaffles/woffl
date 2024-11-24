@@ -1,4 +1,4 @@
-# Web Dev Club
+# Software Dev Club
 
 <i>Organised by Edgar Tasseel, 1<sup>e</sup>3</i>
 
@@ -16,7 +16,7 @@ If you're interested in web development (or programming in general), and would l
 [•] | You'll hopefully learn new skills that you can apply elsewhere in the future|
 
 ## What will we be doing?
-Over the course of this school year, more or less, we'll be building a full web app, with a nice frontend, a functional backend and database. The type of app that we'll be working on isn't defined yet, that would be something that we discuss and decide together. To give you an idea, it could be along the lines of a full remake of Pronote (interesting to look into algorithms to generate timetables on a large scale for example).
+Over the course of this school year, more or less, we'll be building a full web app (or desktop/mobile, we can decide later), with a nice frontend, a functional backend and database. The type of app that we'll be working on isn't defined yet, that would be something that we discuss and decide together. To give you an idea, it could be along the lines of a full remake of Pronote (interesting to look into algorithms to generate timetables on a large scale for example).
 
 ## Skills
 Anyone can join, however you still need a minimum of programming knowledge and a will to participate, but if you're comfortable with what we've been learning at school as far as SNT/NSI goes, you should be fine. Here's the skills you should need:
@@ -24,7 +24,7 @@ Anyone can join, however you still need a minimum of programming knowledge and a
 ### Necessary
 
 [•] | At least basic programming knowledge|
-[•] | Know JavaScript, or be willing to [learn](https://www.w3schools.com/js/) (many resources will be available)|
+[•] | Know JavaScript, or be willing to [learn](https://www.w3schools.com/js/) (many resources will be available), **we may use Python if not enough people are comfortable with the former.**|
 [•] | A machine that you can work from at home with decent specs (any OS is fine)|
 [•] | An interest in whatever we'll be making|
 [•] | The necessary time to contribute to the project (it'll never be too much, you can go at your own pace, but say you do BFI, managing this and your regular work might be challenging)|
@@ -33,7 +33,8 @@ Anyone can join, however you still need a minimum of programming knowledge and a
 
 ### Optional
 
-[•] | Prior experience with JS web frameworks (Next.js, Nuxt, SvelteKit, etc)|
+[•] | Prior experience with JS web frameworks (Next.js, Nuxt, SvelteKit, etc), **only if we do end up making a web app**|
+[•] | Prior experience with native app development (React Native, Tauri, etc), **only if we do end up making a desktop app**|
 [•] | Experience in UI design (or just graphic design/art)|
 
 <br/>
