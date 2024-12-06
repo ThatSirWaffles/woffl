@@ -1,3 +1,8 @@
+---
+description: A versatile Roblox operating system
+---
+
+
 # Lucarne
 <i>A versatile Roblox operating system</i>
 
@@ -29,6 +34,10 @@ Lucarne licenses are meant to be very generous and accessible. Purchase it once,
 | *Functionality* | Full | Full |
 | *Lucarne credit* | Yes | Toggleable |
 | *Discrete activation message* | Yes | No |
+
+<br/>
+
+{% include checkout.html %}
 
 ### Licensing FAQ
 
