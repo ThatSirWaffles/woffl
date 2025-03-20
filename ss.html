@@ -2,7 +2,7 @@
 layout: default
 defaults:
   - scope:
-      path: /ss/*
+      path: /ss/
 ---
 
 <!DOCTYPE html>
@@ -11,7 +11,8 @@ defaults:
     <meta charset="UTF-8">
     <title>Accounts</title>
 	<script>
-		const segments = window.location.pathname.substring(1).split('/');
+		const params = new URLSearchParams(window.location.search);
+		const account = params.get("account");
 
 		const sheets = [
 			"1907987724", 		// Tamara
@@ -28,12 +29,12 @@ defaults:
 		];
 		
 		document.addEventListener("DOMContentLoaded", () => {
-			if (segments.length == 1) {
+			if (!account) {
 				document.getElementById("mainText").innerHTML = "no snooping >:(";
-			} else if (sheets.includes(segments[1])) {
+			} else if (sheets.includes(account)) {
 				document.title = "Account";
 				document.body.innerHTML = `
-					<iframe style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX9dkRYLU0rqEBiUZQnl7aaitJk94lSrbOWFPjSPE7L1jB8_DuagwLW_u3i5hoaVe-Wy1yvzu3U9mv/pubhtml?gid=${segments[1]}&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+					<iframe style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX9dkRYLU0rqEBiUZQnl7aaitJk94lSrbOWFPjSPE7L1jB8_DuagwLW_u3i5hoaVe-Wy1yvzu3U9mv/pubhtml?gid=${account}&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 				`
 			} else {
 				document.getElementById("mainText").innerHTML = "can't find your account :(";
