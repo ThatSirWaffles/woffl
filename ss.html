@@ -15,31 +15,15 @@ description: A list of all your assets
 	<script>
 		const params = new URLSearchParams(window.location.search);
 		const account = params.get("account");
-
-		const sheets = [
-			"1907987724", 		// Tamara
-			"532969899",		// Emilio
-			"709831916", 		// Elea
-			"1582021829", 		// Charles
-			"1478597368", 		// Louis
-			"384693721", 		// Ayden
-			"1924659401", 		// Nolan
-			"744901263", 		// William
-			"1804106500", 		// Jules
-			"1542989980", 		// Group #1
-			"118563263", 		// Government
-		];
 		
 		document.addEventListener("DOMContentLoaded", () => {
 			if (!account) {
 				document.getElementById("mainText").innerHTML = "no snooping >:(";
-			} else if (sheets.includes(account)) {
+			} else {
 				document.title = "Account";
 				document.body.innerHTML = `
 					<iframe style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTX9dkRYLU0rqEBiUZQnl7aaitJk94lSrbOWFPjSPE7L1jB8_DuagwLW_u3i5hoaVe-Wy1yvzu3U9mv/pubhtml?gid=${account}&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 				`
-			} else {
-				document.getElementById("mainText").innerHTML = "can't find your account :(";
 			}
 		});
 	</script>
