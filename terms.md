@@ -1,19 +1,18 @@
 # Terms of Service
-<i>Last updated on 10/11/2024</i>
+<i>Last updated on 23/05/2025</i>
 
-By using this website or interacting with our services *(including connecting through third-party OAuth providers like Roblox and Discord)*, you agree to comply with the following terms and conditions. The current span of these terms extends to groups like Skyrden, but any services operated by <b>woffl</b> most definitely adhere.
+By using this website or interacting with 'our services' *(any service under the woffl.net domain)*, you agree to comply with the following terms and conditions.
 
 ### 1. Acceptance of Terms
-By accessing or using this site, including services connected via third-party OAuth integrations *(e.g., Roblox, Discord)*, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our [Privacy Policy](privacy).
+By accessing or using this site, including our services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our [Privacy Policy](privacy).
 
 ### 2. Account Creation
 You may need to create an account on our site to access certain features. You agree to provide accurate, current, and complete information during the registration process. You are responsible for maintaining the confidentiality of your account credentials.
 
-### 3. OAuth Integrations
-By using third-party services such as Roblox or Discord to authenticate and connect to our site, you grant us permission to access the necessary account information required for the integration. This may include profile information and usage data as specified by each OAuth provider's policies.
+### 3. Third-Party Integrations
+By using third-party services such as Roblox or Discord to authenticate and connect to our site, you grant us permission to access the necessary account information required for the integration. This may include profile information and personal statistics as specified by each OAuth provider's notice.
 
-Roblox OAuth: By linking your Roblox account, you consent to our access to your public Roblox data as permitted by Roblox's API and privacy policies.
-Discord OAuth: By linking your Discord account, you consent to our access to your Discord profile information as permitted by Discord's API and privacy policies.
+By linking a third-party account, you consent to our access to your personal data as permitted by the third-party's API and privacy policies.
 
 ### 4. Use of Services
 You agree to use our website and services for lawful purposes only. You must not:
@@ -23,15 +22,15 @@ Use our website to distribute malware or perform actions that could damage, disa
 Violate any applicable laws or third-party terms when interacting with linked services.
 
 ### 5. Privacy and Data Usage
-We respect your privacy. The information we collect may include personal data, usage statistics, and data provided through third-party integrations. This data is used to enhance your experience, maintain service security, and improve our offerings. This is currently not in use, but may be introduced in future services.
+We respect your privacy. The information we collect may include personal data, usage statistics, and data provided through third-party integrations. This data is used to enhance your experience, maintain service security, and improve our offerings.
 
 For more details, please refer to our [Privacy Policy](privacy).
 
 ### 6. Third-Party Links
-Our website may contain links to third-party services or websites, including those provided by OAuth services *(e.g., Roblox, Discord)*. We are not responsible for the content or practices of third-party sites. You access these sites at your own risk and should review their terms and privacy policies.
+Our website may contain links to third-party services or websites, including those provided by OAuth services. We are not responsible for the content or practices of third-party sites. You access these sites at your own risk and should review their terms and privacy policies.
 
 ### 7. Termination
-We may suspend or terminate your access to the site or services at our discretion if you violate these Terms of Service or engage in activity that we deem harmful or inappropriate. You may terminate your account at any time by following the appropriate process on our site.
+We may suspend or terminate your access to the site or services at our discretion if you violate these Terms of Service or engage in activity that we deem harmful or inappropriate. You may terminate your account at any time by contacting `sirwaffles@woffl.net` *(this outlet is currently unavailable, contact us [here](contact) if necessary)*.
 
 ### 8. Limitations of Liability
 To the fullest extent permitted by law, we are not liable for any direct, indirect, incidental, special, or consequential damages arising from your use of our website or services. We are not responsible for any loss of data, downtime, or third-party integrations affecting our site or services.
