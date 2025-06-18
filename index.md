@@ -6,8 +6,6 @@ Hey, I go by <b>Sir Waffles</b> on most platforms, branding my content under <b>
 <p style="text-align: center"><i>UK time is <code><span id="time"></span></code></i></p>
 <br/>
 
-> Running an interest check on [Lucarne](/lucarne), please send me a DM on Discord `@sirwaffles` if this could be useful for you!
-
 <script>
 	function updateTime() {
 		const now = new Date();
