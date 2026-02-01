@@ -23,11 +23,11 @@ description: A work-in-progress open-world game, based in medieval times, in an 
 
 A work-in-progress open-world game, based in medieval times, in an archipelago of individual sovereign islands, all fighting for the upper hand. 
 
-[•] | Each island has its own laws, system of government and economy|
-[•] | Different social classes based on wealth and role|
-[•] | Purchasable and customizable houses|
-[•] | Trading of resources that islands rely on for survival|
-[•] | A single "seamless" map that would be realistically sailable|
+- Each island has its own laws, system of government and economy|
+- Different social classes based on wealth and role|
+- Purchasable and customizable houses|
+- Trading of resources that islands rely on for survival|
+- A single "seamless" map that would be realistically sailable|
 
 <br/>
 

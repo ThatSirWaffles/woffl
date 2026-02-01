@@ -23,13 +23,13 @@ description: A bespoke multipurpose Discord bot
 
 A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/skyrden), created circa late 2021, rewritten 3 times to the state it is in now. The linked repo is an archive of a recent public version.
 
-[•] | Full ticket system with ticket claiming, snippets, bans and transcripts|
-[•] | Roblox-Discord user linking system|
-[•] | Cross platform points system, earned on Roblox, displayed on Discord|
-[•] | Basic community activity features|
-[•] | Semi automated flight status announcements from Roblox|
-[•] | Hooks with another piece of Skyrden's infrastructure, the [Staff Hub](https://staff.skyrden.com)|
-[•] | API to control most features of the bot externally, notably from the Staff Hub|
+- Full ticket system with ticket claiming, snippets, bans and transcripts|
+- Roblox-Discord user linking system|
+- Cross platform points system, earned on Roblox, displayed on Discord|
+- Basic community activity features|
+- Semi automated flight status announcements from Roblox|
+- Hooks with another piece of Skyrden's infrastructure, the [Staff Hub](https://staff.skyrden.com)|
+- API to control most features of the bot externally, notably from the Staff Hub|
 
 <br/>
 

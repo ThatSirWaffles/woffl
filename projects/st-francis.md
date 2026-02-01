@@ -23,11 +23,11 @@ description: An immersive virtual church game
 
 A detailed, accurate and immersive Roblox church game created and built by [Darknessuprisings](https://www.roblox.com/users/870790674/profile). I was asked to handle scripting and UI for the entire game. <i>(May require certain permissions to experience fully, [contact me](/contact) for a walkthrough)</i>
 
-[•] | Wardrobe system for wearing 3D CSG vestments|
-[•] | Categorised hymn panel|
-[•] | Animation system|
-[•] | Server configuration panel|
-[•] | Dynamic interaction system|
+- Wardrobe system for wearing 3D CSG vestments|
+- Categorised hymn panel|
+- Animation system|
+- Server configuration panel|
+- Dynamic interaction system|
 
 <br/>
 

@@ -29,9 +29,9 @@ description: A static web-based tool
 
 A tool to decode the encrypted FFD codes in the game CPUF, made entirely for fun and community use.	Created April 2024.
 
-[•] | Follows a simple algorithm to decrypt 4/6 digit FFD codes|
-[•] | Allows for automated decryption from a screenshot of the in-game code|
-[•] | Uses Google's Gemini API as better OCR|
+- Follows a simple algorithm to decrypt 4/6 digit FFD codes|
+- Allows for automated decryption from a screenshot of the in-game code|
+- Uses Google's Gemini API as better OCR|
 
 <br/>
 
