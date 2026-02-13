@@ -1,5 +1,5 @@
 # Terms of Service
-<i>Last updated on 23/05/2025</i>
+<i>Last updated on 13/02/2026</i>
 
 By using this website or interacting with 'our services' *(any service under the woffl.net domain)*, you agree to comply with the following terms and conditions.
 
@@ -30,7 +30,7 @@ For more details, please refer to our [Privacy Policy](privacy).
 Our website may contain links to third-party services or websites, including those provided by OAuth services. We are not responsible for the content or practices of third-party sites. You access these sites at your own risk and should review their terms and privacy policies.
 
 ### 7. Termination
-We may suspend or terminate your access to the site or services at our discretion if you violate these Terms of Service or engage in activity that we deem harmful or inappropriate. You may terminate your account at any time by contacting `sirwaffles@woffl.net` *(this outlet is currently unavailable, contact us [here](contact) if necessary)*.
+We may suspend or terminate your access to the site or services at our discretion if you violate these Terms of Service or engage in activity that we deem harmful or inappropriate. You may terminate your account at any time by contacting `sirwaffles@woffl.net`.
 
 ### 8. Limitations of Liability
 To the fullest extent permitted by law, we are not liable for any direct, indirect, incidental, special, or consequential damages arising from your use of our website or services. We are not responsible for any loss of data, downtime, or third-party integrations affecting our site or services.
