@@ -21,7 +21,7 @@ description: A bespoke multipurpose Discord bot
 	</div>
 </h2>
 
-A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/skyrden), created circa late 2021, rewritten 3 times to the state it is in now, and actively maintained by me to this day. The linked repo is an archive of a public archive from 2024.
+A bespoke multipurpose Discord bot developed for [Skyrden](https://discord.gg/skyrden), created circa late 2021, rewritten 3 times to the state it is in now, and actively maintained by me to this day. The linked repo is a public archive from 2024.
 
 - Full ticket system with ticket claiming, snippets, bans and transcripts|
 - Roblox-Discord user linking system|
