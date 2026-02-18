@@ -55,12 +55,16 @@ html, body, .markdown-body.main {
 		padding-left: 2rem;
 		gap: 1rem;
 	}
-	ul li::marker {
-		content: '[•]';
-	}
 	ul li {
 		padding-left: 1rem;
 		margin-bottom: 1rem;
+    	position: relative;
+	}
+	ul li::before {
+		content: '[•]';
+		position: absolute;
+		top: 0.3rem;
+		left: -0.8rem;
 	}
 	h1 {
 		color: #ddb18f;
@@ -96,6 +100,10 @@ html, body, .markdown-body.main {
 		border-radius: 10px;
 		cursor: pointer;
 		background-color: transparent;
+	}
+
+	video {
+		border-radius: 10px;
 	}
 
 	.highlight {
