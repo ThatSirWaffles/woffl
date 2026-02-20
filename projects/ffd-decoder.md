@@ -1,6 +1,7 @@
 ---
 title: FFD Decoder
 description: A static web-based tool
+image: /assets/images/ffd.png
 ---
 
 / <a href="javascript:history.back()">back</a>

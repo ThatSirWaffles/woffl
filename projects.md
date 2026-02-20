@@ -10,6 +10,7 @@ Here are most of my projects, or projects that I have participated in.
 2025 | [sabiro](/projects/sabiro) | *Tailored virtual clothes group* |
 since 2024 | [pelagorine](/projects/pelagorine) | *WIP open-world game* |
 2024 | [ffd decoder](/projects/ffd-decoder) | *Static web-based tool* |
+2024 | [stroopwafel](/projects/stroopwafel) | *A 1980s terminal* |
 2024 | [aviawards](/projects/aviawards) | *Yearly ro-aviation awards show* |
 2023 | [st. francis catholic church](/projects/st-francis) | *Virtual church game* |
 since 2021 | [skyrden core](/projects/skyrden-core) | *Multipurpose Discord bot* |

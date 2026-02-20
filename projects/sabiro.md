@@ -1,6 +1,7 @@
 ---
 title: Sabiro
 description: Tailored virtual clothes group
+image: /assets/images/sabiro.png
 ---
 
 / <a href="javascript:history.back()">back</a>

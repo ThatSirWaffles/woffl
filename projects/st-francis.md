@@ -1,6 +1,7 @@
 ---
 title: St. Francis Catholic Church
 description: An immersive virtual church game
+image: /assets/images/st-francis-cover.png
 ---
 
 / <a href="javascript:history.back()">back</a>

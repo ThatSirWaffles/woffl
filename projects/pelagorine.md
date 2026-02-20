@@ -1,6 +1,7 @@
 ---
 title: Pelagorine
-description: A work-in-progress open-world game, based in medieval times, in an archipelago of individual sovereign islands, all fighting for the upper hand. 
+description: A work-in-progress open-world game, based in medieval times, in an archipelago of individual sovereign islands, all fighting for the upper hand.
+image: /assets/images/pelagorine-terrain.png
 ---
 
 / <a href="javascript:history.back()">back</a>

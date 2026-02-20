@@ -1,6 +1,7 @@
 ---
 title: AviAwards
 description: A yearly ro-aviation show
+image: /assets/images/avi-screen.png
 ---
 
 / <a href="javascript:history.back()">back</a>
